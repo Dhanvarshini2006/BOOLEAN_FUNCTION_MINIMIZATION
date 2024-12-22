@@ -89,11 +89,12 @@ endmodule
 
 1)F1
 
-![EXP2 2](https://github.com/user-attachments/assets/0ef4c28d-f5ae-443f-8768-54cfe067414c)
+![EXP2 1](https://github.com/user-attachments/assets/e3a22132-cf05-40b0-9263-2a015d65e414)
+
 
 2)F2
 
-![EXP2 1](https://github.com/user-attachments/assets/e3a22132-cf05-40b0-9263-2a015d65e414)
+![EXP2 2](https://github.com/user-attachments/assets/0ef4c28d-f5ae-443f-8768-54cfe067414c)
 
 
 
